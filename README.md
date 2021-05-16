@@ -3,7 +3,7 @@
 ## About Me
 
 A software engineer with a focus on producing intuitive user experience focused systems.
-Working my way towards becoming a full fledged software architect someday.  
+Working my way towards becoming a full fledged software architect specialising on scalable applications server millions of clients worldwide.  
 Currently working with web full-stack tech (Angular, React, Java, Node js and php).  
 
 ## Other Activities
@@ -16,6 +16,7 @@ I'm currently learning or plan to get into the following tech in the near future
 
 - AWS certification
 - Java certification
+- Learn in depth more about Docker and Kubernetes
 - On the way on making my own Saas for personal daily management tool
 - Creating a chat tool as a Saas
 
